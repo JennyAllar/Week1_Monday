@@ -68,17 +68,17 @@ $ rm            //remove file
 <br>[Git Version Control Basics](http://git-scm.com/book/en/v2/Getting-Started-Git-Basics)
 
 ##Setting up Git
-- Create your [GitHub](https://github.com) account !!
-- Setting up Git:
-<br>
-<br>
-https://help.github.com/articles/set-up-git/#platform-mac
-<br>
-<br>
-[Windows users download and guide](https://git-for-windows.github.io/)
-<br>
+Create your [GitHub](https://github.com) account !!
 
+####Mac Users
+- [Follow these instructions](https://help.github.com/articles/set-up-git/#platform-mac)
 - Generate your SSH key:  https://help.github.com/articles/generating-ssh-keys/
+
+####Windows Users
+- [Download Git Here](https://git-for-windows.github.io/)<br>
+- Install downloaded file
+- Open Git Bash
+- Generate your SSH key: https://help.github.com/articles/generating-ssh-keys/#platform-windows *(Under Step 3, follow both steps to ensure ssh-agent is enabled)*
 
 ##Workflow
 <br>
